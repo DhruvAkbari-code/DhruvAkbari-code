@@ -1,8 +1,4 @@
 <div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-</div>
-
-<div align="center">
   <h1>Hey there 👋 I'm Dhruv</h1>
   <h3>🚀 Full Stack Developer | 💻 Tech Enthusiast | 🇮🇳 India</h3>
 </div>
